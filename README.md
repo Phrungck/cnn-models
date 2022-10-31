@@ -7,4 +7,6 @@ In this repository you will find a list of different CNN model implementations I
 * PyTorch
 
 ## Model List:
-* Inception Model: this pertains to the mini_googlenet python script // (https://github.com/Phrungck/CNN-models/blob/main/mini_googlenet.py)
+* Inception Model: this pertains to the mini_googlenet python script
+  * Link to code: https://github.com/Phrungck/CNN-models/blob/main/mini_googlenet.py
+  * Link to paper: https://arxiv.org/abs/1611.03530
